@@ -1,7 +1,7 @@
 {
-    "applicationName" : "YOUR-APP-NAME-HERE",
-    "applicationId": "YOUR-APP-ID-HERE",
-    "applicationKey": "YOUR-APP-KEY-HERE",
+    "applicationName" : "文玩迷_DEV",
+    "applicationId": "99x32nbkesla82lw603qp197cxgd2ludc8otpwrshcxx5g5g",
+    "applicationKey": "a80ukbvucdht7li1y7pl4hi6690spm89mdf18v963y0e6z5z",
     "global": {
         "avVersion": "0.3.1"
     }
